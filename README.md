@@ -1,4 +1,4 @@
-# Rule of the game
+# Rules of the game
 
 Spider Attack is the official name of the game used for the Spring Challenge 2022
 
