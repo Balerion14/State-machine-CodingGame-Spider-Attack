@@ -1378,13 +1378,6 @@ class IA
             }
             //.... 
         }
-
-        void fint_next_monstre_direction_base()
-        {
-           
-
-            
-        } 
         
         /* 
          * Calcule toutes les distance entre la base allie et monstre(idem pour base ennemie), puis elle trie dans l'ordre croissant
