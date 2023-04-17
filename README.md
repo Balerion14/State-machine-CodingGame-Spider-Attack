@@ -16,8 +16,8 @@ All the code is in a single file because it is the only authorized format in ord
 
 # Comments
 
-There are very few comments because there is a limited number of lines of code
-Small precision: The code is in a single file because the format of the challenges obliges us to code all in a limited time on a single file
+- There are very few comments because there is a limited number of lines of code
+- Small precision: The code is in a single file because the format of the challenges obliges us to code all in a limited time on a single file
 
 # CodinGame
 
